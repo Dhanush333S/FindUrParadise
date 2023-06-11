@@ -1,0 +1,825 @@
+﻿Country,State,city,place,lastupdate,Avg,Max,Min,Pollutants
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,70,108,42,PM2.5
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,76,102,43,PM10
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,73,118,46,NO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,5,6,4,NH3
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,41,109,2,SO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,44,102,18,CO
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",21-12-2018 03:00:00,29,35,12,OZONE
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,30,103,2,CO
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",21-12-2018 03:00:00,108,130,51,OZONE
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,46,72,28,PM2.5
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,64,83,40,PM10
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,61,89,36,NO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,10,12,6,SO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,16,25,6,CO
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",21-12-2018 03:00:00,36,58,27,OZONE
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,46,73,32,PM2.5
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,65,74,50,PM10
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,15,18,13,NO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,14,23,11,SO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",21-12-2018 03:00:00,41,78,34,CO
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,71,96,53,PM2.5
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,76,101,54,PM10
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,39,81,13,NO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,3,4,2,NH3
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,6,13,2,SO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",21-12-2018 03:00:00,68,81,39,OZONE
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",21-12-2018 03:00:00,342,456,226,PM2.5
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",21-12-2018 03:00:00,12,15,10,NO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",21-12-2018 03:00:00,11,26,4,SO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",21-12-2018 03:00:00,54,115,7,CO
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",21-12-2018 03:00:00,56,74,27,OZONE
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",21-12-2018 03:00:00,436,500,270,PM2.5
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",21-12-2018 03:00:00,29,68,20,NO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",21-12-2018 03:00:00,29,98,12,SO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",21-12-2018 03:00:00,68,111,2,CO
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",21-12-2018 03:00:00,61,132,32,OZONE
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",21-12-2018 03:00:00,457,500,325,PM2.5
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",21-12-2018 03:00:00,15,22,11,NO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",21-12-2018 03:00:00,34,47,20,SO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",21-12-2018 03:00:00,95,148,71,CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,389,475,247,PM2.5
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,314,446,154,PM10
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,131,194,61,NO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,10,15,6,NH3
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,30,48,16,SO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,56,109,25,CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",21-12-2018 03:00:00,41,86,1,OZONE
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,89,175,68,CO
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",21-12-2018 03:00:00,20,29,11,OZONE
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,418,500,313,PM2.5
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,333,455,194,PM10
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,40,88,4,NO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,10,12,8,NH3
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,29,51,14,SO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,86,120,55,CO
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",21-12-2018 03:00:00,63,140,6,OZONE
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",21-12-2018 03:00:00,329,430,153,PM2.5
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",21-12-2018 03:00:00,257,424,125,PM10
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",21-12-2018 03:00:00,25,29,13,NO2
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",21-12-2018 03:00:00,114,116,100,CO
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",21-12-2018 03:00:00,45,88,32,OZONE
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,311,365,203,PM2.5
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,345,454,199,PM10
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,64,115,18,NO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,17,21,13,NH3
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,21,32,9,SO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,65,107,35,CO
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",21-12-2018 03:00:00,56,145,2,OZONE
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",21-12-2018 03:00:00,388,500,226,PM2.5
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",21-12-2018 03:00:00,317,500,150,PM10
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",21-12-2018 03:00:00,28,38,21,NO2
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",21-12-2018 03:00:00,106,110,71,CO
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",21-12-2018 03:00:00,27,40,24,OZONE
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",21-12-2018 03:00:00,385,500,185,PM2.5
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",21-12-2018 03:00:00,360,497,159,PM10
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",21-12-2018 03:00:00,85,117,61,NO2
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",21-12-2018 03:00:00,84,169,51,CO
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",21-12-2018 03:00:00,41,42,41,OZONE
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,401,500,234,PM2.5
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,350,500,172,PM10
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,64,83,49,NO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,6,7,5,NH3
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,15,31,8,SO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,80,127,48,CO
+India,Delhi,Delhi,"DTU, Delhi - CPCB",21-12-2018 03:00:00,72,114,48,OZONE
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,361,436,187,PM2.5
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,278,413,129,PM10
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,93,147,38,NO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,11,15,7,NH3
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,25,55,13,SO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,51,128,20,CO
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",21-12-2018 03:00:00,150,150,1,OZONE
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,228,346,78,PM2.5
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,383,500,187,PM10
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,59,94,33,NO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,12,16,9,NH3
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,25,31,16,SO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,75,183,40,CO
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",21-12-2018 03:00:00,36,84,2,OZONE
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",21-12-2018 03:00:00,356,480,182,PM2.5
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",21-12-2018 03:00:00,304,481,140,PM10
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",21-12-2018 03:00:00,50,94,25,NO2
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",21-12-2018 03:00:00,7,21,1,CO
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",21-12-2018 03:00:00,8,22,1,OZONE
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",21-12-2018 03:00:00,323,430,32,PM2.5
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",21-12-2018 03:00:00,93,146,41,NO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",21-12-2018 03:00:00,14,23,11,NH3
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",21-12-2018 03:00:00,22,38,6,SO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",21-12-2018 03:00:00,52,114,12,CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,396,480,306,PM2.5
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,272,420,164,PM10
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,47,76,31,NO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,12,30,2,NH3
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,10,14,8,SO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,88,157,58,CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",21-12-2018 03:00:00,15,31,4,OZONE
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,426,500,325,PM2.5
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,397,500,265,PM10
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,76,102,50,NO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,19,26,12,NH3
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,33,52,22,SO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,97,170,65,CO
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",21-12-2018 03:00:00,36,82,4,OZONE
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,411,500,267,PM2.5
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,374,464,181,PM10
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,101,157,37,NO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,17,20,12,NH3
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,30,60,17,SO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,35,148,7,CO
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",21-12-2018 03:00:00,40,111,1,OZONE
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",21-12-2018 03:00:00,329,437,194,PM2.5
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",21-12-2018 03:00:00,274,428,150,PM10
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",21-12-2018 03:00:00,50,74,31,NO2
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",21-12-2018 03:00:00,24,112,12,CO
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",21-12-2018 03:00:00,31,63,14,OZONE
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,383,450,227,PM2.5
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,361,476,181,PM10
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,110,171,56,NO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,10,12,8,NH3
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,18,57,6,SO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,77,161,48,CO
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",21-12-2018 03:00:00,30,79,1,OZONE
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,379,438,251,PM2.5
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,235,311,150,PM10
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,187,305,20,NO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,10,16,6,NH3
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,4,7,1,SO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,70,129,28,CO
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",21-12-2018 03:00:00,28,44,10,OZONE
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,433,500,327,PM2.5
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,414,500,274,PM10
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,74,117,33,NO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,16,19,12,NH3
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,34,43,24,SO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,79,128,55,CO
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",21-12-2018 03:00:00,41,102,6,OZONE
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",21-12-2018 03:00:00,358,500,106,PM2.5
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",21-12-2018 03:00:00,46,89,21,NO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",21-12-2018 03:00:00,17,46,2,SO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",21-12-2018 03:00:00,28,143,11,CO
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",21-12-2018 03:00:00,26,84,3,OZONE
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,336,407,260,PM2.5
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,201,342,158,PM10
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,76,105,45,NO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,11,14,8,NH3
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,6,14,1,SO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,55,75,34,CO
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",21-12-2018 03:00:00,50,127,1,OZONE
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,392,483,275,PM2.5
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,307,445,189,PM10
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,53,121,12,NO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,18,19,15,NH3
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,8,16,2,SO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,64,121,35,CO
+India,Delhi,Delhi,"Narela, Delhi - DPCC",21-12-2018 03:00:00,50,94,2,OZONE
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,439,500,318,PM2.5
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,378,500,183,PM10
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,102,173,59,NO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,17,24,11,NH3
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,38,65,20,SO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,80,198,53,CO
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",21-12-2018 03:00:00,41,118,1,OZONE
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",21-12-2018 03:00:00,349,442,157,PM2.5
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",21-12-2018 03:00:00,414,493,273,PM10
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",21-12-2018 03:00:00,65,121,27,NO2
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",21-12-2018 03:00:00,84,139,7,CO
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",21-12-2018 03:00:00,32,42,22,OZONE
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,380,457,207,PM2.5
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,361,460,167,PM10
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,85,109,62,NO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,21,28,15,NH3
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,16,29,8,SO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,71,146,50,CO
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",21-12-2018 03:00:00,20,43,4,OZONE
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,393,449,308,PM2.5
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,308,422,206,PM10
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,34,42,28,NO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,22,29,16,NH3
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,6,11,4,SO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,58,126,40,CO
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",21-12-2018 03:00:00,20,54,1,OZONE
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,395,459,278,PM2.5
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,320,434,185,PM10
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,119,203,75,NO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,21,25,16,NH3
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,65,143,32,CO
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",21-12-2018 03:00:00,38,95,6,OZONE
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,410,475,332,PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,381,480,274,PM10
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,114,191,55,NO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,14,18,11,NH3
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,16,28,6,SO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,108,141,91,CO
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",21-12-2018 03:00:00,18,42,1,OZONE
+India,Delhi,Delhi,"Pusa, Delhi - IMD",21-12-2018 03:00:00,354,430,250,PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - IMD",21-12-2018 03:00:00,269,417,157,PM10
+India,Delhi,Delhi,"Pusa, Delhi - IMD",21-12-2018 03:00:00,60,108,34,NO2
+India,Delhi,Delhi,"Pusa, Delhi - IMD",21-12-2018 03:00:00,31,85,21,CO
+India,Delhi,Delhi,"Pusa, Delhi - IMD",21-12-2018 03:00:00,25,39,15,OZONE
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,408,493,305,PM2.5
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,364,493,173,PM10
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,126,174,60,NO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,10,13,7,NH3
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,24,41,8,SO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,47,182,10,CO
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",21-12-2018 03:00:00,185,185,51,OZONE
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,421,500,311,PM2.5
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,372,500,187,PM10
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,82,178,19,NO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,19,23,12,NH3
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,28,39,13,SO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,64,146,27,CO
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",21-12-2018 03:00:00,50,119,2,OZONE
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",21-12-2018 03:00:00,393,456,302,PM2.5
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",21-12-2018 03:00:00,81,154,22,NO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",21-12-2018 03:00:00,12,21,7,SO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",21-12-2018 03:00:00,79,196,9,CO
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",21-12-2018 03:00:00,28,60,7,OZONE
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,361,428,244,PM2.5
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,392,500,264,PM10
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,69,125,43,NO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,6,12,3,NH3
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,25,30,23,SO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,42,164,19,CO
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",21-12-2018 03:00:00,37,47,28,OZONE
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,401,498,307,PM2.5
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,305,436,164,PM10
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,82,148,42,NO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,11,13,9,NH3
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,14,25,7,SO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,103,188,71,CO
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",21-12-2018 03:00:00,48,113,7,OZONE
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,359,429,257,PM2.5
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,247,371,147,PM10
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,50,69,30,NO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,8,17,3,NH3
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,13,23,6,SO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,58,108,32,CO
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",21-12-2018 03:00:00,49,80,8,OZONE
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,390,449,332,PM2.5
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,339,455,223,PM10
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,72,91,52,NO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,14,17,10,NH3
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,15,24,7,SO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,69,128,50,CO
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",21-12-2018 03:00:00,52,144,3,OZONE
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,431,500,317,PM2.5
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,413,500,229,PM10
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,101,144,72,NO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,19,22,15,NH3
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,26,34,17,SO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,95,112,65,CO
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",21-12-2018 03:00:00,35,78,3,OZONE
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",21-12-2018 03:00:00,223,337,99,PM2.5
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",21-12-2018 03:00:00,95,188,37,NO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",21-12-2018 03:00:00,84,122,38,SO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",21-12-2018 03:00:00,24,46,16,CO
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",21-12-2018 03:00:00,NA,NA,NA,OZONE
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",21-12-2018 03:00:00,377,465,227,PM2.5
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",21-12-2018 03:00:00,114,181,38,NO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",21-12-2018 03:00:00,22,37,14,SO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",21-12-2018 03:00:00,69,123,28,CO
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",21-12-2018 03:00:00,53,88,1,OZONE
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",21-12-2018 03:00:00,NA,NA,NA,CO
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",21-12-2018 03:00:00,NA,NA,NA,OZONE
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",21-12-2018 03:00:00,229,312,134,PM2.5
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",21-12-2018 03:00:00,131,249,33,NO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",21-12-2018 03:00:00,16,34,2,SO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",21-12-2018 03:00:00,20,88,3,CO
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",21-12-2018 03:00:00,48,98,9,OZONE
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,265,451,78,PM2.5
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,207,500,81,PM10
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,25,42,11,NO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,6,11,2,NH3
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,2,3,1,SO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,26,123,13,CO
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",21-12-2018 03:00:00,30,55,1,OZONE
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",21-12-2018 03:00:00,149,306,30,PM2.5
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",21-12-2018 03:00:00,28,36,22,NO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",21-12-2018 03:00:00,7,16,2,SO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",21-12-2018 03:00:00,34,62,16,CO
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",21-12-2018 03:00:00,35,65,20,OZONE
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",21-12-2018 03:00:00,121,216,40,PM2.5
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",21-12-2018 03:00:00,11,13,8,SO2
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",21-12-2018 03:00:00,52,112,3,CO
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",21-12-2018 03:00:00,20,34,4,OZONE
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",21-12-2018 03:00:00,321,500,193,PM10
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",21-12-2018 03:00:00,10,11,8,NO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",21-12-2018 03:00:00,2,2,2,NH3
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",21-12-2018 03:00:00,61,125,5,SO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",21-12-2018 03:00:00,26,43,3,OZONE
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",21-12-2018 03:00:00,130,260,6,PM2.5
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",21-12-2018 03:00:00,22,36,11,NO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",21-12-2018 03:00:00,17,20,14,SO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",21-12-2018 03:00:00,37,80,7,CO
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",21-12-2018 03:00:00,67,114,43,OZONE
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,93,132,70,PM2.5
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,98,131,65,PM10
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,79,121,42,NO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,4,4,3,NH3
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,8,12,5,SO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,266,266,13,OZONE
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",21-12-2018 03:00:00,105,153,60,PM10
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",21-12-2018 03:00:00,47,96,14,NO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",21-12-2018 03:00:00,9,13,5,SO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",21-12-2018 03:00:00,69,81,58,CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,34,35,32,CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",21-12-2018 03:00:00,46,48,43,OZONE
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,67,92,54,PM2.5
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,82,123,54,PM10
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,30,83,10,NO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,4,5,2,SO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,31,63,17,CO
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",21-12-2018 03:00:00,195,195,37,OZONE
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,107,210,73,PM2.5
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,185,332,72,PM10
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,80,151,20,NO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,3,4,2,NH3
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,4,5,2,SO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,72,122,14,CO
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",21-12-2018 03:00:00,85,114,7,OZONE
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",21-12-2018 03:00:00,66,139,35,PM2.5
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",21-12-2018 03:00:00,40,76,28,NO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",21-12-2018 03:00:00,10,17,7,NH3
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",21-12-2018 03:00:00,15,77,2,SO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",21-12-2018 03:00:00,41,74,25,CO
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",21-12-2018 03:00:00,46,57,37,PM10
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",21-12-2018 03:00:00,35,92,10,NO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",21-12-2018 03:00:00,1,2,1,SO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",21-12-2018 03:00:00,32,63,20,CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,67,90,50,PM2.5
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,82,118,55,PM10
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,34,60,18,NO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,6,7,5,NH3
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,3,7,1,SO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,16,57,6,CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",21-12-2018 03:00:00,78,167,27,OZONE
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,59,119,36,PM2.5
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,67,123,45,PM10
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,47,56,44,NO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,9,15,4,SO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,19,27,15,CO
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",21-12-2018 03:00:00,21,29,17,OZONE
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,63,143,30,PM2.5
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,82,183,39,PM10
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,33,105,15,NO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,1,2,1,NH3
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,1,3,1,SO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,26,80,16,CO
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",21-12-2018 03:00:00,49,66,3,OZONE
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,139,227,92,PM2.5
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,99,129,75,PM10
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,12,35,1,NO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,1,2,1,NH3
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,32,61,6,SO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,110,117,105,CO
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",21-12-2018 03:00:00,76,114,28,OZONE
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,85,159,38,PM2.5
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,98,164,54,PM10
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,38,73,14,NO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,4,4,3,NH3
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,7,11,4,SO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,29,56,1,CO
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",21-12-2018 03:00:00,120,159,64,OZONE
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,190,324,53,PM2.5
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,165,272,90,PM10
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,34,100,8,NO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,3,9,1,NH3
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,43,110,23,SO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,40,77,18,CO
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",21-12-2018 03:00:00,75,111,29,OZONE
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,104,231,47,PM2.5
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,114,172,72,PM10
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,22,56,10,NO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,4,6,3,NH3
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,19,74,8,SO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,21,46,15,CO
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",21-12-2018 03:00:00,92,118,39,OZONE
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",21-12-2018 03:00:00,18,51,1,PM2.5
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",21-12-2018 03:00:00,148,500,49,PM10
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",21-12-2018 03:00:00,51,55,49,SO2
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",21-12-2018 03:00:00,100,108,80,CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,337,448,122,PM2.5
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,318,500,126,PM10
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,36,76,17,NO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,4,6,2,NH3
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,40,68,18,SO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,53,114,14,CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",21-12-2018 03:00:00,64,130,6,OZONE
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,214,410,47,PM2.5
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,161,357,70,PM10
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,53,120,18,NO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,8,13,4,NH3
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,12,26,5,SO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,53,108,19,CO
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",21-12-2018 03:00:00,88,154,1,OZONE
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,96,188,40,PM2.5
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,102,200,40,PM10
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,22,25,19,NO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,5,5,5,NH3
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,6,11,1,SO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,35,106,8,CO
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",21-12-2018 03:00:00,64,102,3,OZONE
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,101,263,38,PM2.5
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,113,183,70,PM10
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,27,52,14,NO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,9,11,7,NH3
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,12,34,10,SO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,17,30,8,CO
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",21-12-2018 03:00:00,10,11,10,OZONE
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",21-12-2018 03:00:00,NA,NA,NA,CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,89,255,33,PM2.5
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,113,171,51,PM10
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,83,147,42,NO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,22,44,11,SO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,98,103,59,CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",21-12-2018 03:00:00,44,63,37,OZONE
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,141,315,47,PM2.5
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,108,180,57,PM10
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,72,150,17,NO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,28,76,7,NH3
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,21,66,1,SO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,27,150,14,CO
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",21-12-2018 03:00:00,49,59,18,OZONE
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,32,62,8,PM2.5
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,76,120,34,PM10
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,70,121,32,NO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,4,5,4,NH3
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,18,44,2,SO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,25,116,20,CO
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",21-12-2018 03:00:00,180,180,7,OZONE
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,177,322,44,PM2.5
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,121,233,22,PM10
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,16,24,12,NO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,89,110,70,SO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,102,151,95,CO
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",21-12-2018 03:00:00,11,12,11,OZONE
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,105,294,31,PM2.5
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,142,411,41,PM10
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,87,153,52,NO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,13,15,12,SO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,79,157,47,CO
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",21-12-2018 03:00:00,44,76,12,OZONE
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,86,154,50,PM2.5
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,122,174,85,PM10
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,111,212,30,NO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,4,6,2,NH3
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,46,111,9,SO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,38,102,6,CO
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",21-12-2018 03:00:00,26,87,1,OZONE
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,203,441,58,PM2.5
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,146,423,51,PM10
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,20,62,10,NO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,10,18,3,NH3
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,17,19,16,SO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,74,96,55,CO
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",21-12-2018 03:00:00,6,17,4,OZONE
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,2,2,2,NH3
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,15,29,8,SO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,101,121,80,CO
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",21-12-2018 03:00:00,8,16,1,OZONE
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",21-12-2018 03:00:00,90,172,54,PM2.5
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",21-12-2018 03:00:00,108,154,72,PM10
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",21-12-2018 03:00:00,44,53,28,NO2
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",21-12-2018 03:00:00,2,3,1,NH3
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",21-12-2018 03:00:00,14,30,11,OZONE
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",21-12-2018 03:00:00,77,99,50,PM2.5
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",21-12-2018 03:00:00,118,223,59,PM10
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",21-12-2018 03:00:00,18,29,2,NO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",21-12-2018 03:00:00,10,15,3,SO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",21-12-2018 03:00:00,22,37,12,CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,73,109,51,PM2.5
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,72,102,50,PM10
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,24,24,24,NO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,7,7,7,NH3
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,5,15,2,SO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,16,23,14,CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",21-12-2018 03:00:00,12,31,1,OZONE
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,96,148,62,PM2.5
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,119,153,93,PM10
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,43,71,28,NO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,39,85,18,SO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,18,61,12,CO
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",21-12-2018 03:00:00,5,8,1,OZONE
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,110,260,30,PM2.5
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,124,155,90,PM10
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,16,47,14,NO2
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,11,12,10,NH3
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,21,21,21,CO
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",21-12-2018 03:00:00,25,33,4,OZONE
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,240,320,85,PM2.5
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,232,336,120,PM10
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,21,22,19,NO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,3,3,3,NH3
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,12,31,6,SO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,114,121,106,CO
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",21-12-2018 03:00:00,18,41,6,OZONE
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,157,218,94,PM2.5
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,154,212,118,PM10
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,39,56,25,NO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,8,10,8,NH3
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,11,20,7,SO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,41,104,28,CO
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",21-12-2018 03:00:00,18,29,2,OZONE
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",21-12-2018 03:00:00,141,309,67,PM2.5
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",21-12-2018 03:00:00,142,295,57,PM10
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",21-12-2018 03:00:00,15,17,2,NO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",21-12-2018 03:00:00,9,10,8,SO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",21-12-2018 03:00:00,25,29,20,CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,160,331,63,PM2.5
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,112,217,60,PM10
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,76,147,26,NO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,12,16,8,NH3
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,14,27,5,SO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,40,134,9,CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",21-12-2018 03:00:00,58,118,9,OZONE
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,114,245,12,PM2.5
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,100,150,33,PM10
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,101,163,54,NO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,8,9,6,NH3
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,21,38,2,SO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,46,110,1,CO
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",21-12-2018 03:00:00,48,89,9,OZONE
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,336,456,130,PM2.5
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,396,500,145,PM10
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,68,122,39,NO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,3,5,2,NH3
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,36,80,8,SO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,47,108,33,CO
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",21-12-2018 03:00:00,34,63,1,OZONE
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,108,335,1,PM2.5
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,74,123,6,PM10
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,66,102,24,NO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,5,9,2,NH3
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,12,34,3,SO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,78,133,29,CO
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,62,127,1,OZONE
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,276,436,78,PM2.5
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,214,405,71,PM10
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,55,139,1,NO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,13,16,9,SO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,37,117,4,CO
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",21-12-2018 03:00:00,39,77,7,OZONE
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,253,379,82,PM2.5
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,176,391,105,PM10
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,66,100,38,NO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,7,9,5,NH3
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,18,33,1,SO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,77,150,28,CO
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",21-12-2018 03:00:00,45,96,2,OZONE
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,238,418,45,PM2.5
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,204,428,103,PM10
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,53,76,42,NO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,19,45,1,SO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,42,120,4,CO
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",21-12-2018 03:00:00,67,109,60,OZONE
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,187,352,53,PM2.5
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,156,297,50,PM10
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,48,68,32,NO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,7,14,3,NH3
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,14,32,8,SO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,37,102,2,CO
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",21-12-2018 03:00:00,27,49,5,OZONE
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,98,300,37,PM2.5
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,111,194,68,PM10
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,44,84,25,NO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,8,9,5,NH3
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,10,20,3,SO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,52,130,27,CO
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",21-12-2018 03:00:00,45,90,4,OZONE
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,161,349,58,PM2.5
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,193,429,89,PM10
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,25,37,15,NO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,6,12,3,NH3
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,16,28,7,SO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,56,159,26,CO
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",21-12-2018 03:00:00,49,129,1,OZONE
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",21-12-2018 03:00:00,77,202,3,PM2.5
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",21-12-2018 03:00:00,31,56,23,NO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",21-12-2018 03:00:00,13,26,7,SO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",21-12-2018 03:00:00,59,92,14,CO
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",21-12-2018 03:00:00,18,26,10,OZONE
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",21-12-2018 03:00:00,105,429,24,PM2.5
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",21-12-2018 03:00:00,15,22,9,NO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",21-12-2018 03:00:00,15,24,14,NH3
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",21-12-2018 03:00:00,17,32,8,SO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",21-12-2018 03:00:00,50,75,41,CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",21-12-2018 03:00:00,45,64,24,PM2.5
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",21-12-2018 03:00:00,13,16,11,NO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",21-12-2018 03:00:00,7,10,4,SO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",21-12-2018 03:00:00,36,55,18,CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",21-12-2018 03:00:00,44,66,18,OZONE
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,77,132,41,PM2.5
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,87,148,54,PM10
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,27,48,11,NO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,2,3,2,NH3
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,5,9,2,SO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,24,47,17,CO
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",21-12-2018 03:00:00,16,23,6,OZONE
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,80,128,46,PM2.5
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,106,151,76,PM10
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,81,139,39,NO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,4,5,3,NH3
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,5,13,1,SO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,30,97,21,CO
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",21-12-2018 03:00:00,60,104,2,OZONE
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,100,187,42,PM2.5
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,104,157,52,PM10
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,34,67,12,NO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,3,5,2,NH3
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,15,43,7,SO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,21,72,9,CO
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",21-12-2018 03:00:00,29,50,2,OZONE
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,114,182,43,PM2.5
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,111,152,63,PM10
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,91,111,61,NO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,1,1,1,NH3
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,42,94,19,SO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,30,73,11,CO
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",21-12-2018 03:00:00,24,45,4,OZONE
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",21-12-2018 03:00:00,125,181,75,PM2.5
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",21-12-2018 03:00:00,59,117,24,NO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",21-12-2018 03:00:00,12,21,6,SO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",21-12-2018 03:00:00,31,97,10,CO
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",21-12-2018 03:00:00,39,72,3,OZONE
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,NA,NA,NA,PM2.5
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,NA,NA,NA,PM10
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,NA,NA,NA,NO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,NA,NA,NA,NH3
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,NA,NA,NA,SO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,37,100,28,CO
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",21-12-2018 03:00:00,70,109,12,OZONE
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",21-12-2018 03:00:00,372,476,224,PM2.5
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",21-12-2018 03:00:00,90,149,34,NO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",21-12-2018 03:00:00,17,32,1,SO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",21-12-2018 03:00:00,47,128,34,CO
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",21-12-2018 03:00:00,1,2,1,OZONE
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,360,463,313,PM2.5
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,231,398,162,PM10
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,63,84,31,NO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,22,31,17,NH3
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,31,58,14,SO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,45,56,8,CO
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",21-12-2018 03:00:00,221,221,4,OZONE
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,420,500,278,PM2.5
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,371,469,166,PM10
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,129,163,66,NO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,18,28,11,NH3
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,33,59,16,SO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,83,114,39,CO
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",21-12-2018 03:00:00,190,192,5,OZONE
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,406,472,321,PM2.5
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,325,456,195,PM10
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,144,175,108,NO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,18,20,14,NH3
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,40,84,13,SO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,97,136,47,CO
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",21-12-2018 03:00:00,41,100,6,OZONE
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,411,471,230,PM2.5
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,373,469,186,PM10
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,160,255,75,NO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,16,23,9,NH3
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,13,37,1,SO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,65,131,22,CO
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",21-12-2018 03:00:00,47,119,2,OZONE
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",21-12-2018 03:00:00,370,500,277,PM2.5
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",21-12-2018 03:00:00,127,205,62,NO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",21-12-2018 03:00:00,35,112,10,SO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",21-12-2018 03:00:00,79,155,10,CO
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",21-12-2018 03:00:00,76,121,3,OZONE
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",21-12-2018 03:00:00,307,363,230,PM2.5
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",21-12-2018 03:00:00,45,80,32,NO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",21-12-2018 03:00:00,6,7,5,SO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",21-12-2018 03:00:00,25,100,4,CO
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",21-12-2018 03:00:00,18,26,5,OZONE
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",21-12-2018 03:00:00,377,471,335,PM2.5
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",21-12-2018 03:00:00,86,157,41,NO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",21-12-2018 03:00:00,15,25,7,SO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",21-12-2018 03:00:00,62,113,32,CO
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",21-12-2018 03:00:00,89,132,23,OZONE
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",21-12-2018 03:00:00,329,479,195,PM2.5
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",21-12-2018 03:00:00,47,86,24,NO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",21-12-2018 03:00:00,11,16,8,SO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",21-12-2018 03:00:00,17,127,8,CO
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",21-12-2018 03:00:00,37,59,10,OZONE
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",21-12-2018 03:00:00,323,391,250,PM2.5
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",21-12-2018 03:00:00,65,126,25,NO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",21-12-2018 03:00:00,11,18,8,NH3
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",21-12-2018 03:00:00,10,14,5,SO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",21-12-2018 03:00:00,50,85,10,CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,374,500,55,PM2.5
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,314,497,114,PM10
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,115,211,45,NO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,12,17,7,NH3
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,22,36,7,SO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,70,125,19,CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",21-12-2018 03:00:00,65,151,3,OZONE
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,360,430,282,PM2.5
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,241,388,160,PM10
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,64,112,40,NO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,18,28,12,NH3
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,14,42,1,SO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,61,96,29,CO
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",21-12-2018 03:00:00,77,116,32,OZONE
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,433,500,329,PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,401,500,237,PM10
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,146,228,34,NO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,15,19,9,NH3
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,19,48,3,SO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,99,171,43,CO
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",21-12-2018 03:00:00,19,64,3,OZONE
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",21-12-2018 03:00:00,354,443,239,PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",21-12-2018 03:00:00,341,485,178,PM10
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",21-12-2018 03:00:00,17,19,15,NO2
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",21-12-2018 03:00:00,59,108,41,CO
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",21-12-2018 03:00:00,36,58,23,OZONE
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,379,474,282,PM2.5
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,305,434,179,PM10
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,164,270,98,NO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,34,57,7,SO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,34,112,14,CO
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",21-12-2018 03:00:00,28,197,4,OZONE
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,287,350,140,PM2.5
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,180,364,131,PM10
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,69,107,38,NO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,4,7,1,NH3
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,9,51,1,SO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,55,107,11,CO
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",21-12-2018 03:00:00,34,66,1,OZONE
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",21-12-2018 03:00:00,167,249,92,PM10
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",21-12-2018 03:00:00,12,20,8,SO2
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",21-12-2018 03:00:00,79,105,33,CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",21-12-2018 03:00:00,138,190,93,PM10
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",21-12-2018 03:00:00,42,81,26,NO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",21-12-2018 03:00:00,15,20,9,SO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",21-12-2018 03:00:00,27,34,14,CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",21-12-2018 03:00:00,20,33,4,OZONE
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,297,411,119,PM2.5
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,277,465,137,PM10
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,104,180,63,NO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,7,12,5,NH3
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,60,132,16,SO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,53,148,18,CO
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",21-12-2018 03:00:00,29,58,2,OZONE
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,329,420,217,PM2.5
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,217,377,129,PM10
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,1,5,1,NO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,6,6,5,NH3
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,9,22,2,SO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,34,121,21,CO
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",21-12-2018 03:00:00,163,163,1,OZONE
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,383,500,301,PM2.5
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,302,500,176,PM10
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,94,158,47,NO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,3,5,1,NH3
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,16,34,6,SO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,12,28,12,CO
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",21-12-2018 03:00:00,154,154,1,OZONE
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,280,377,165,PM2.5
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,183,313,125,PM10
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,57,121,4,NO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,26,56,6,NH3
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,13,30,3,SO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,48,134,27,CO
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",21-12-2018 03:00:00,61,114,4,OZONE
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,136,297,44,PM2.5
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,129,178,45,PM10
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,49,83,14,NO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,8,13,2,NH3
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,5,8,2,SO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,33,67,14,CO
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",21-12-2018 03:00:00,33,65,7,OZONE
